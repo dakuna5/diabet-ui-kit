@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "iphone serecents icon@2x.png", 
+      "idiom": "universal", 
+      "scale": "2x"
+    }
+  ], 
+  "info": {
+    "author": "xcode", 
+    "version": 1
+  }
+}
